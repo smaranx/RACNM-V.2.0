@@ -67,7 +67,7 @@
                 <li data-filter="*" class="filter-active">All</li>
                 <li data-filter=".filter-app">Completed</li>
                 <li data-filter=".filter-card">OnGoing</li>
-                <li data-filter=".filter-web">FlagShip</li>
+                <li data-filter=".filter-web">Flagship</li>
               </ul>
             </div>
           </div>
