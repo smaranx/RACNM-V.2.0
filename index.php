@@ -54,12 +54,12 @@
         <div class="carousel-inner" role="listbox">
 
           <!-- Slide 1 -->
-          <div class="carousel-item active" style="background: url(assets/img/slide/slide-1.jpg)">
+          <div class="carousel-item active" style="background: url(assets/img/slide/1.jpg)">
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2 class="animate__animated animate__fadeInDown">Welcome to <span></span></h2>
+                <h2 class="animate__animated animate__fadeInDown">Rotaract Club of<span> Navi Mumbai</span></h2>
                 <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
-                <a href="" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
+                <a href="about.php" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
               </div>
             </div>
           </div>
@@ -139,7 +139,7 @@
 
         <div class="row">
           <div class="col-lg-6">
-            <img src="assets/img/about.jpg" class="img-fluid" alt="">
+            <img src="assets/img/img.jpeg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content">
             <h3>About Rotaract Club of Navi Mumbai</h3>
