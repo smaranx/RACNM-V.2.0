@@ -125,7 +125,7 @@
           &copy; <strong><span>Rotaract Club of Navi Mumbai </span></strong>. All Rights Reserved
         </div>
         <div class="credits">
-          Developed by <a href=""><strong><span>Smaran.</span></strong></a>
+          Developed by <a href="https://www.linkedin.com/in/smaran-ummadishetty-24905717b/"><strong><span>Smaran.</span></strong></a>
         </div>
       </div>
     </footer>
