@@ -311,13 +311,13 @@
 
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
               <div class="member">
-                <img src="assets/img/team/aditi.jpeg" alt="" />
-                <h4>Minal</h4>
+                <img src="assets/img/team/minal.jpeg" alt="" />
+                <h4>Minal Hedalkar</h4>
                 <span>International Service Director</span>
                 <div class="social">
-                  <a href="https://www.facebook.com/profile.php?id=100067549206397"><i class="bi bi-facebook"></i></a>
-                  <a href="https://instagram.com/adxti.10?utm_medium=copy_link"><i class="bi bi-instagram"></i></a>
-                  <a href="https://www.linkedin.com/in/aditi-mishra-538a1b210"><i class="bi bi-linkedin"></i></a>
+                  <a href="https://www.facebook.com/minal.hedalkar"><i class="bi bi-facebook"></i></a>
+                  <a href="https://instagram.com/fandom.63?utm_medium=copy_link"><i class="bi bi-instagram"></i></a>
+                  <a href="https://in.linkedin.com/in/minal-hedalkar-b31149129"><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
             </div>
