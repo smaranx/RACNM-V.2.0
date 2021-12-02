@@ -4,7 +4,7 @@
 
 html {
     scroll-behavior: smooth;
-    --primaryColor: #e32c6e;
+    --primaryColor: #e96b56;
     --secondaryColor: #ffffff;
     --textColor: #444444;
 }
@@ -70,11 +70,12 @@ h6 {
 
 
 /*--------------------------------------------------------------
+*--------------------------------------------------------------
 # Top Bar
 --------------------------------------------------------------*/
 
 #topbar {
-    background: var(--primaryColor);
+    background: #010c25;
     padding: 10px 0;
     font-size: 14px;
 }
@@ -96,7 +97,7 @@ h6 {
 }
 
 #topbar .contact-info i a:hover {
-    color: var(--textColor);
+    color: var(--primaryColor);
 }
 
 #topbar .social-links a {
@@ -107,7 +108,7 @@ h6 {
 }
 
 #topbar .social-links a:hover {
-    color: var(--textColor);
+    color: var(--primaryColor);
 }
 
 
