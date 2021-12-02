@@ -103,13 +103,13 @@
 
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
               <div class="member">
-                <img src="assets/img/team/sharmeen.jpg" alt="" />
+                <img src="assets/img/team/nupur.jpg" alt="" />
                 <h4>Nupur Gadekar</h4>
                 <span>Chairwomen Finance</span>
                 <div class="social">
                   <a href="#"><i class="bi bi-facebook"></i></a>
-                  <a href="https://instagram.com/sharmeeeennn?utm_medium=copy_link"><i class="bi bi-instagram"></i></a>
-                  <a href="https://www.linkedin.com/in/sharmeen-nayakavadi-30888b1aa"><i class="bi bi-linkedin"></i></a>
+                  <a href="https://www.instagram.com/nupur_gadekar/"><i class="bi bi-instagram"></i></a>
+                  <a href="https://www.linkedin.com/in/nupur-gadekar-9446541a5"><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
             </div>
@@ -246,7 +246,7 @@
 
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
               <div class="member">
-                <img src="assets/img/team/sak.jpg" alt="" />
+                <img src="assets/img/team/sakshi.jpeg" alt="" />
                 <h4>Sakshi Salekar</h4>
                 <span>Entreprenuership Director</span>
                 <div class="social">
@@ -259,7 +259,7 @@
 
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
               <div class="member">
-                <img src="assets/img/team/sonia.jpg" alt="" />
+                <img src="assets/img/team/sonia.jpeg" alt="" />
                 <h4>Sonia Sharma</h4>
                 <span>Entreprenuership Director</span>
                 <div class="social">
@@ -350,7 +350,7 @@
 
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
               <div class="member">
-                <img src="assets/img/team/dangg.jpg" alt="" />
+                <img src="assets/img/team/dangg.jpeg" alt="" />
                 <h4>Anjali Dang</h4>
                 <span>PR & Marketing Director</span>
                 <div class="social">
@@ -376,7 +376,7 @@
 
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
               <div class="member">
-                <img src="assets/img/team/ade.jpg" alt="" />
+                <img src="assets/img/team/adeeba.jpeg" alt="" />
                 <h4>Adeeba Allabax</h4>
                 <span>Editorial Director</span>
                 <div class="social">
@@ -441,13 +441,13 @@
 
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
               <div class="member">
-                <img src="assets/img/team/ninad.jpg" alt="" />
+                <img src="assets/img/team/ninad.jpeg" alt="" />
                 <h4>Ninad Jadhav</h4>
                 <span>Partner In Service</span>
                 <div class="social">
-                  <a href="#"><i class="bi bi-facebook"></i></a>
-                  <a href="#"><i class="bi bi-instagram"></i></a>
-                  <a href="#"><i class="bi bi-linkedin"></i></a>
+                  <a href="https://www.facebook.com/profile.php?id=100011352109567"><i class="bi bi-facebook"></i></a>
+                  <a href="https://instagram.com/_jadhav._.ninad_"><i class="bi bi-instagram"></i></a>
+                  <a href="https://www.linkedin.com/in/ninad-jadhav-506802209/"><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
             </div>
