@@ -64,7 +64,7 @@
   
           <div class="row">
             <div class="col-lg-6">
-              <img src="assets/img/img.jpeg" class="img-fluid" alt="">
+              <img src="assets/img/about.jpeg" class="img-fluid" alt="">
             </div>
             <div class="col-lg-6 pt-4 pt-lg-0 content">
               <h3>About Rotaract Club of Navi Mumbai</h3>
@@ -132,7 +132,7 @@
                   class="purecounter"
                 ></span>
                 <p>
-                  <strong>Hours Of Work</strong> committed.
+                  <strong>Hours Of Work</strong> completed.
                 </p>
                 <a href="#">Find out more &raquo;</a>
               </div>
