@@ -99,7 +99,7 @@
               </div>
             </div>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-card">
               <div class="portfolio-wrap">
                 <img
                   src="assets/img/events/runway.jpg"
@@ -125,7 +125,7 @@
               </div>
             </div>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-card">
               <div class="portfolio-wrap">
                 <img
                   src="assets/img/events/1.jpg"
@@ -151,7 +151,7 @@
               </div>
             </div>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
               <div class="portfolio-wrap">
                 <img
                   src="assets/img/events/brand.jpg"
@@ -177,7 +177,7 @@
               </div>
             </div>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-card">
               <div class="portfolio-wrap">
                 <img
                   src="assets/img/events/festogala.jpg"
@@ -203,7 +203,7 @@
               </div>
             </div>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-card">
               <div class="portfolio-wrap">
                 <img
                   src="assets/img/events/mm.jpg"
@@ -231,7 +231,7 @@
 
             
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
               <div class="portfolio-wrap">
                 <img
                   src="assets/img/events/sus.jpg"
@@ -257,7 +257,7 @@
               </div>
             </div>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
               <div class="portfolio-wrap">
                 <img
                   src="assets/img/events/atmanirbhar.jpg"
@@ -283,7 +283,7 @@
               </div>
             </div>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
               <div class="portfolio-wrap">
                 <img
                   src="assets/img/events/football.jpg"
