@@ -60,22 +60,22 @@
 
           <!-- Slide 2 -->
           <div class="carousel-item" style="background: url(assets/img/slide/6.jpeg);">
-            <div class="carousel-container" style="background-color: rgba(59, 59, 59, 0.6);">
+            <div class="carousel-container" style="background-color: rgba(0, 0, 0, 0.7);">
               <div class="carousel-content">
-                <h2 class="animate__animated fanimate__adeInDown">Lorem <span>Ipsum Dolor</span></h2>
-                <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
-                <a href="" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
+                <h2 class="animate__animated fanimate__adeInDown">We are the<span>ChangeMakers</span></h2>
+                <p class="animate__animated animate__fadeInUp">To Accomplish Great Things, We Must Not Only Act, But Also Dream; Not Only Plan, but also Believe.</p>
+                <a href="about.php" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
               </div>
             </div>
           </div>
 
           <!-- Slide 3 -->
           <div class="carousel-item" style="background: url(assets/img/slide/3.jpeg);">
-            <div class="carousel-container" style="background-color: rgba(59, 59, 59, 0.6);">
+            <div class="carousel-container" style="background-color: rgba(0, 0, 0, 0.7);">
               <div class="carousel-content">
-                <h2 class="animate__animated animate__fadeInDown">Sequi ea <span>Dime Lara</span></h2>
-                <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
-                <a href="" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
+                <h2 class="animate__animated animate__fadeInDown">Be a part of <span>Our Story</span></h2>
+                <p class="animate__animated animate__fadeInUp">Be A ChangeMaker</p>
+                <a href="contact.php" class="btn-get-started animate__animated animate__fadeInUp">Join Us</a>
               </div>
             </div>
           </div>
