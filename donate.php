@@ -65,7 +65,31 @@
       <img src="https://pngimg.com/uploads/cancer/cancer_PNG25.png" class="avatar" />
       <div class="details px-2">
         <h3 class="name mb-0"><strong>Ichha</strong></h3>
-        <span class="creator text-muted">For Children Batteling Cancer</span>
+        <span class="creator text-muted">For Children Battling Cancer</span>
+      </div>
+      <button class="btn btn-md btn-donate z-depth-0" data-toggle="popover" data-placement="bottom" 
+  data-description="New! Donate to causes you care about">Donate</button>
+    </div>
+    <p class="mt-3 mb-0 sum">Total raised: $100</p>
+  </div>
+  <div class="card-footer">
+    <a href="" class="text-uppercase text-muted">Show more</a>
+  </div>
+</div><br>
+
+<div class="card mt-4 mx-auto" style="max-width: 25rem;">
+  <div class="card-header p-0">
+    <span class="d-inline-block card-title mb-0">Donate now</span>
+    <span class="donate-icon">
+      <i class="fas fa-hand-holding-heart"></i>
+    </span>
+  </div>
+  <div class="card-body">
+    <div class="fundraiser">
+      <img src="https://cdn-icons-png.flaticon.com/512/1042/1042558.png" class="avatar" />
+      <div class="details px-2">
+        <h3 class="name mb-0"><strong>Gullak For a Smile</strong></h3>
+        <span class="creator text-muted">Save a penny everytime something makes you happy and donate for a noble cause</span>
       </div>
       <button class="btn btn-md btn-donate z-depth-0" data-toggle="popover" data-placement="bottom" 
   data-description="New! Donate to causes you care about">Donate</button>
