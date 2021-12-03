@@ -54,7 +54,7 @@
         <div class="carousel-inner" role="listbox">
 
           <!-- Slide 1 -->
-          <div class="carousel-item active" style="background: url(assets/img/slide/pp.jpg);">
+          <div class="carousel-item active" style="background: url(assets/img/slide/web.jpg);">
             
           </div>
 
