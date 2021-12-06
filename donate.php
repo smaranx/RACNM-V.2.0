@@ -110,7 +110,7 @@
   </div>
   <div class="card-body">
     <div class="fundraiser">
-      <img src="https://cdn-icons-png.flaticon.com/512/1042/1042558.png" class="avatar" />
+      <img src="https://previews.123rf.com/images/butenkow/butenkow1612/butenkow161204080/67428208-template-design-logo-school-vector-illustration-of-icon.jpg" class="avatar" />
       <div class="details px-2">
         <h3 class="name mb-0"><strong>School Renovation</strong></h3>
         <span class="creator text-muted">Help renovate a school for unprevilaged children</span>
@@ -134,7 +134,7 @@
   </div>
   <div class="card-body">
     <div class="fundraiser">
-      <img src="https://cdn-icons-png.flaticon.com/512/1042/1042558.png" class="avatar" />
+      <img src="https://assets.thehansindia.com/hansindia-bucket/EYE_3644.jpg" class="avatar" />
       <div class="details px-2">
         <h3 class="name mb-0"><strong>Eye Checkup Camp</strong></h3>
         <span class="creator text-muted">Donate for eye checkup camp</span>
