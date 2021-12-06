@@ -273,11 +273,9 @@
         },
     });
 })();
-
 /**
  * Donate
  */
-
 $(function() {
     // Whitelist buttons in popovers
     var myDefaultWhiteList = $.fn.tooltip.Constructor.Default.whiteList;
